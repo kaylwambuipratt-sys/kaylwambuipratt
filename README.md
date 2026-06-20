@@ -1,2 +1,3 @@
-# my name is kayla wambui
-## About me , i am a student in weacan studying AI
+# Hi its kayla 
+**About me** , - me i am studying AI at weacan
+
