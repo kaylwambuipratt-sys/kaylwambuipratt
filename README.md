@@ -1,3 +1,3 @@
 # Hi its kayla 
-**About me** , - me i am studying AI at weacan
+**About me** - i am studying AI at weacan
 
