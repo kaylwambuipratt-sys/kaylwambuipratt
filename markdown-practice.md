@@ -45,3 +45,12 @@ steps to make a commit
 ```python
 print("Hello, world!")
 ```
+
+----
+# Excercise 8 blockqoute
+> put your money where your mouth is.
+
+---
+# About me 
+im kayla , i geniunley love technology as a concempt b
+
