@@ -37,8 +37,8 @@ steps to make a commit
 # Exercise 6 -task list
 - [x] writing codes
 - [x] editimg codes
-- [x] knowing commands
-- [x] graphic design
+- [ ] knowing commands
+- [ ] graphic design
 
 ---
 # Exercise 7 - code block
