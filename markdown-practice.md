@@ -1,20 +1,20 @@
 
-# Exercise 1 Headings
+# Exercise 1 - Headings
 ## My Learning Goals
 ### This Semester
 
 ---
-# Exercise 2 Text formatting
+# Exercise 2 - Text formatting
 my goal this semester is to be able to use github **without any difficulty or assistance** 
 also understand how *python* and *linux* works 'everything'
 
 ---
-# Excercise 3 links
+# Excercise 3 - links
 
 [Link text](https://github.com/kaylwambuipratt-sys/kaylwambuipratt)
 
 ---
-# Excercise 4 listing
+# Excercise 4 - listing
 - coding
 - genereting sites
   - graphics
@@ -26,7 +26,7 @@ steps to make a commit
 3. creating commit with a messages i.e git commit "decribr thr message"
 
 ---
-# Eercise 5 - Tables
+# Exercise 5 - Tables
 | Tool    | purpose   | link     |
 |---------|-----------|----------|
 | git     | version control | https://git-scm.com   |
@@ -34,10 +34,14 @@ steps to make a commit
 | vsc | writing and editting codes  | https://code.visualstudio.com |
 
 ---
+# Exercise 6 -task list
 - [x] writing codes
 - [x] editimg codes
 - [x] knowing commands
 - [x] graphic design
+
+---
+# Exercise 7 - code block
 ```python
 print("Hello, world!")
 ```
